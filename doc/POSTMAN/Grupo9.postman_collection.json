@@ -1,0 +1,723 @@
+{
+	"info": {
+		"_postman_id": "8b65051c-d59b-43ab-b91f-f3378072b746",
+		"name": "Grupo9",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Tema",
+			"item": [
+				{
+					"name": "Retrieve temas",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{localhost}}Temas",
+							"host": [
+								"{{localhost}}Temas"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Create tema",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "{{localhost}}Temas",
+							"host": [
+								"{{localhost}}Temas"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Retrieve tema",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{localhost}}Temas/?id=1",
+							"host": [
+								"{{localhost}}Temas"
+							],
+							"path": [
+								""
+							],
+							"query": [
+								{
+									"key": "id",
+									"value": "1"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Update tema",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"url": {
+							"raw": "{{localhost}}Temas/?id=1",
+							"host": [
+								"{{localhost}}Temas"
+							],
+							"path": [
+								""
+							],
+							"query": [
+								{
+									"key": "id",
+									"value": "1"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Delete tema",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "{{localhost}}Temas/?id=1",
+							"host": [
+								"{{localhost}}Temas"
+							],
+							"path": [
+								""
+							],
+							"query": [
+								{
+									"key": "id",
+									"value": "1"
+								}
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Utilizador",
+			"item": [
+				{
+					"name": "Retrieve utilizadores",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{localhost}}Utilizadores",
+							"host": [
+								"{{localhost}}Utilizadores"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Create utilizador",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "{{localhost}}Utilizadores",
+							"host": [
+								"{{localhost}}Utilizadores"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Retrieve utilizador",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{localhost}}Utilizadores/?id=1",
+							"host": [
+								"{{localhost}}Utilizadores"
+							],
+							"path": [
+								""
+							],
+							"query": [
+								{
+									"key": "id",
+									"value": "1"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Update utilizador",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"url": {
+							"raw": "{{localhost}}Utilizadores/?id=1",
+							"host": [
+								"{{localhost}}Utilizadores"
+							],
+							"path": [
+								""
+							],
+							"query": [
+								{
+									"key": "id",
+									"value": "1"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Delete utilizador",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "{{localhost}}Utilizadores/?id=1",
+							"host": [
+								"{{localhost}}Utilizadores"
+							],
+							"path": [
+								""
+							],
+							"query": [
+								{
+									"key": "id",
+									"value": "1"
+								}
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Carteira",
+			"item": [
+				{
+					"name": "Retrieve Carteiras",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{localhost}}Carteiras",
+							"host": [
+								"{{localhost}}Carteiras"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Create carteira",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "{{localhost}}Carteiras",
+							"host": [
+								"{{localhost}}Carteiras"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Retreive carteira",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{localhost}}Carteiras/?id=1",
+							"host": [
+								"{{localhost}}Carteiras"
+							],
+							"path": [
+								""
+							],
+							"query": [
+								{
+									"key": "id",
+									"value": "1"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Update carteira",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"url": {
+							"raw": "{{localhost}}Carteiras/?id=1",
+							"host": [
+								"{{localhost}}Carteiras"
+							],
+							"path": [
+								""
+							],
+							"query": [
+								{
+									"key": "id",
+									"value": "1"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Delete carteira",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "{{localhost}}Carteiras/?id=1",
+							"host": [
+								"{{localhost}}Carteiras"
+							],
+							"path": [
+								""
+							],
+							"query": [
+								{
+									"key": "id",
+									"value": "1"
+								}
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Filme",
+			"item": [
+				{
+					"name": "Retrieve filmes",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{localhost}}Filmes",
+							"host": [
+								"{{localhost}}Filmes"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Create filme",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "{{localhost}}Filmes",
+							"host": [
+								"{{localhost}}Filmes"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Retrieve filme",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{localhost}}Filmes/?id=1",
+							"host": [
+								"{{localhost}}Filmes"
+							],
+							"path": [
+								""
+							],
+							"query": [
+								{
+									"key": "id",
+									"value": "1"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Update filme",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"url": {
+							"raw": "{{localhost}}Filmes/?id=1",
+							"host": [
+								"{{localhost}}Filmes"
+							],
+							"path": [
+								""
+							],
+							"query": [
+								{
+									"key": "id",
+									"value": "1"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Delete filme",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "{{localhost}}Filmes/?id=1",
+							"host": [
+								"{{localhost}}Filmes"
+							],
+							"path": [
+								""
+							],
+							"query": [
+								{
+									"key": "id",
+									"value": "1"
+								}
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Cinema",
+			"item": [
+				{
+					"name": "Retrieve cinemas",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{localhost}}Cinemas",
+							"host": [
+								"{{localhost}}Cinemas"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Create cinema",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "{{localhost}}Cinemas",
+							"host": [
+								"{{localhost}}Cinemas"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Retrieve cinema",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{localhost}}Cinemas/?id=1",
+							"host": [
+								"{{localhost}}Cinemas"
+							],
+							"path": [
+								""
+							],
+							"query": [
+								{
+									"key": "id",
+									"value": "1"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Update cinema",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"url": {
+							"raw": "{{localhost}}Cinemas/?id=1",
+							"host": [
+								"{{localhost}}Cinemas"
+							],
+							"path": [
+								""
+							],
+							"query": [
+								{
+									"key": "id",
+									"value": "1"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Delete cinema",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "{{localhost}}Cinemas/?id=1",
+							"host": [
+								"{{localhost}}Cinemas"
+							],
+							"path": [
+								""
+							],
+							"query": [
+								{
+									"key": "id",
+									"value": "1"
+								}
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Livro",
+			"item": [
+				{
+					"name": "Retrieve livros",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{localhost}}Livros",
+							"host": [
+								"{{localhost}}Livros"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Create Livro",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "{{localhost}}Livros",
+							"host": [
+								"{{localhost}}Livros"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Retrieve livro",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{localhost}}Livros/?isbn=1",
+							"host": [
+								"{{localhost}}Livros"
+							],
+							"path": [
+								""
+							],
+							"query": [
+								{
+									"key": "isbn",
+									"value": "1"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Update livro",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"url": {
+							"raw": "{{localhost}}Livros/?isbn=1",
+							"host": [
+								"{{localhost}}Livros"
+							],
+							"path": [
+								""
+							],
+							"query": [
+								{
+									"key": "isbn",
+									"value": "1"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Delete livro",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "{{localhost}}Livros/?isbn=1",
+							"host": [
+								"{{localhost}}Livros"
+							],
+							"path": [
+								""
+							],
+							"query": [
+								{
+									"key": "isbn",
+									"value": "1"
+								}
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Servicos de aluger",
+			"item": [
+				{
+					"name": "Retrieve servicos",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{localhost}}Sericos",
+							"host": [
+								"{{localhost}}Sericos"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Create servico",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "{{localhost}}Sericos",
+							"host": [
+								"{{localhost}}Sericos"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Retrieve servico",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{localhost}}Sericos/?id=1",
+							"host": [
+								"{{localhost}}Sericos"
+							],
+							"path": [
+								""
+							],
+							"query": [
+								{
+									"key": "id",
+									"value": "1"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Update servico",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"url": {
+							"raw": "{{localhost}}Sericos/?id=1",
+							"host": [
+								"{{localhost}}Sericos"
+							],
+							"path": [
+								""
+							],
+							"query": [
+								{
+									"key": "id",
+									"value": "1"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Delete servico",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "{{localhost}}Sericos/?id=1",
+							"host": [
+								"{{localhost}}Sericos"
+							],
+							"path": [
+								""
+							],
+							"query": [
+								{
+									"key": "id",
+									"value": "1"
+								}
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
