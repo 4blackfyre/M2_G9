@@ -71,3 +71,32 @@ INSTRUÇÕES DE INSTALAÇÃO
           -executar o comando “npm install” e aguardar que finalize a instalação.
 
           -executar o comando “npm start”.
+          
+          
+          
+          
+          
+GALERIA
+
+
+
+DIAGRAMA DE CLASSES
+
+![image](https://user-images.githubusercontent.com/48681586/122747197-b047a980-d282-11eb-9219-d3c20b48a40c.png)
+
+
+LOOPBACK
+
+![image](https://user-images.githubusercontent.com/48681586/122747287-cce3e180-d282-11eb-9c42-d8806a03622c.png)
+
+
+BASE DE DADOS SQL
+
+![image](https://user-images.githubusercontent.com/48681586/122747244-bfc6f280-d282-11eb-9cb5-e4ad195ec2b4.png)
+
+POSTMAN
+
+![image](https://user-images.githubusercontent.com/48681586/122747348-dcfbc100-d282-11eb-9066-bd137888dfa1.png)
+
+
+
