@@ -1,4 +1,9 @@
-# M2_G9
+# M2_G9 - API DE GESTÃO DE LIVROS E FILMES
+
+Neste momento de avaliação, foi solicitado ao grupo de trabalho a criação de uma REST API que contivesse uma base de dados integrada. O tema da mesma foi livre, ou seja, ficou ao critério de cada grupo de trabalho escolher o seu próprio tema.
+	Após falarmos com o professor da disciplina, o nosso grupo de trabalho escolheu como tema uma API de gestão de livros e filmes.
+
+
 CONTEXTUALIZAÇÃO DO TEMA
 
               “Pretendemos criar uma API para fornecer um serviço ao utilizador que permite 
@@ -93,10 +98,24 @@ LOOPBACK
 BASE DE DADOS SQL
 
 ![image](https://user-images.githubusercontent.com/48681586/122747244-bfc6f280-d282-11eb-9cb5-e4ad195ec2b4.png)
+  
 
 POSTMAN
 
 ![image](https://user-images.githubusercontent.com/48681586/122747348-dcfbc100-d282-11eb-9066-bd137888dfa1.png)
+
+
+REACT
+
+![MicrosoftTeams-image (45)](https://user-images.githubusercontent.com/48681586/122747888-7e831280-d283-11eb-9c4c-c7ca37a4437b.png)
+![MicrosoftTeams-image (44)](https://user-images.githubusercontent.com/48681586/122747904-8478f380-d283-11eb-9fde-bc6c5c7a0072.png)
+![MicrosoftTeams-image (43)](https://user-images.githubusercontent.com/48681586/122747916-86db4d80-d283-11eb-9d54-65175c203f1e.png)
+![MicrosoftTeams-image (42)](https://user-images.githubusercontent.com/48681586/122747929-89d63e00-d283-11eb-89f4-735a60755345.png)
+![MicrosoftTeams-image (41)](https://user-images.githubusercontent.com/48681586/122747938-8cd12e80-d283-11eb-9351-0d3f126ba022.png)
+![MicrosoftTeams-image (40)](https://user-images.githubusercontent.com/48681586/122747940-8e9af200-d283-11eb-8163-099fa0d22462.png)
+![MicrosoftTeams-image (39)](https://user-images.githubusercontent.com/48681586/122747945-922e7900-d283-11eb-8dd3-c9e7366c5491.png)
+![MicrosoftTeams-image (38)](https://user-images.githubusercontent.com/48681586/122747955-93f83c80-d283-11eb-9ebe-124b14160703.png)
+![MicrosoftTeams-image (37)](https://user-images.githubusercontent.com/48681586/122747964-96f32d00-d283-11eb-94d4-6f27c5879734.png)
 
 
 
